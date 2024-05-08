@@ -6,3 +6,4 @@ ipywidgets
 requests
 ipython
 openpyxl
+voila
