@@ -5,3 +5,4 @@ numpy
 ipywidgets
 requests
 ipython
+openpyxl
