@@ -1,1 +1,1 @@
-voila Dashboard.ipynb
+jupyter serverextension enable voila --sys-prefix
