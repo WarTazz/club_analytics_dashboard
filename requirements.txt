@@ -1,9 +1,0 @@
-matplotlib
-seaborn
-pandas
-numpy
-ipywidgets
-requests
-ipython
-openpyxl
-voila
